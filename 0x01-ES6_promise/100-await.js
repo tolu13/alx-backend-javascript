@@ -1,6 +1,3 @@
-
-
-// Import the necessary functions from utils.js
 import { uploadPhoto, createUser } from './utils';
 
 // Define the async function
