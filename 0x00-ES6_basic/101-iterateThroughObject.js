@@ -6,4 +6,3 @@ export default function iterateThroughObject(reportWithIterator) {
   // Remove the last ' | ' from the result
   return result.slice(0, -3);
 }
-
