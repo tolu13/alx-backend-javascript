@@ -18,3 +18,4 @@ describe('Stubs.', function () {
     stubUtils.restore();
     spyConsole.restore();
   });
+});
